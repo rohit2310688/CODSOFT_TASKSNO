@@ -6,9 +6,9 @@ Python Programming Internship tasks completed for **CodSoft**.
 
 | Task | File | Description |
 |------|------|-------------|
-| Task 2 | `task2_calculator.py` | Calculator with addition, subtraction, multiplication and division. Includes calculation history and input validation. |
-| Task 3 | `task3_password_generator.py` | Generates random passwords. The user chooses the length and complexity (low, medium, high). |
-| Task 4 | `task4_rock_paper_scissors.py` | Rock-Paper-Scissors game against the computer with score tracking and a play-again option. |
+| Task 2 | `Calculator.py` | Calculator with addition, subtraction, multiplication and division. Includes calculation history and input validation. |
+| Task 3 | `password_generator.py` | Generates random passwords. The user chooses the length and complexity (low, medium, high). |
+| Task 4 | `rock_paper_scissors.py` | Rock-Paper-Scissors game against the computer with score tracking and a play-again option. |
 
 ## Features
 
